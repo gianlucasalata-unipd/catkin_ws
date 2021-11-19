@@ -1,0 +1,8 @@
+prefix=/home/jetbot/catkin_ws/devel
+
+Name: odometry_publisher
+Description: Description of odometry_publisher
+Version: 0.2.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
