@@ -1,8 +1,0 @@
-prefix=/home/jetbot/catkin_ws/devel
-
-Name: jetbot
-Description: Description of jetbot
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
